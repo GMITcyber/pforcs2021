@@ -2,3 +2,4 @@
 # author: Andrew Beatty
 
 print ('hello')
+print ('test')
